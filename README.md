@@ -2,4 +2,4 @@
 realización
 hola
 
-![prueba](hola.jpg)
+![prueba](hola.png)
